@@ -1,0 +1,7 @@
+spec:
+ name: dt_do_app__platform_hackathon
+ static_sites:
+ - git:
+     branch: main
+     repo_clone_url: https://github.com/moagggi/dt_do_app__platform_hackathon.git
+   name: dt_do_app__platform_hackathon
